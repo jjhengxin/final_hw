@@ -1,14 +1,14 @@
-# final_hw
+# Badminton_with_YOLO
 YOLOv8-pose在羽毛球运动中的应用（）
 
-## 应用一 姿势识别
+#### 应用一 姿势识别
 auto_cut_video.ipynb中第一个代码段实现
 
-## 应用二 自动剪辑动作集锦
+#### 应用二 自动剪辑动作集锦
 代码：auto_cut_video.ipynb
 结果：output_clips/
 
-## 应用三 战术分析
+#### 应用三 战术分析
 自制的数据集：badminton_pose-1/test/
                              /train/
                              /valid/
