@@ -14,11 +14,7 @@ auto_cut_video.ipynb中第一个代码段实现
 
 #### 应用三 战术分析
 
-自制的数据集：badminton_pose-1/test/
-
-                             /train/
-                             
-                             /valid/
+自制的数据集：badminton_pose-1/test、train、valid/
                              
 训练模型代码：badminton_pose-1/runs_in_colab/train_new_model.ipynb（在colab上运行的）
 
