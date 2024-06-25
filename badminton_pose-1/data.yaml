@@ -1,0 +1,29 @@
+flip_idx:
+- 0
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+- 8
+- 9
+- 10
+- 11
+- 12
+kpt_shape:
+- 13
+- 3
+names:
+- person
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: badminton_pose
+  url: https://universe.roboflow.com/jjjhengxin/badminton_pose/dataset/1
+  version: 1
+  workspace: jjjhengxin
+test: ../test/images
+train: badminton_pose-1/train/images
+val: badminton_pose-1/valid/images
